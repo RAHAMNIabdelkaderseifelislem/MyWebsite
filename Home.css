@@ -507,4 +507,130 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+}.u-section-5 .u-sheet-1 {
+  min-height: 530px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin: 70px auto 70px 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 400px;
+  background-image: url("images/BrickBreaker.PNG");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 400px;
+  background-image: none;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 3rem;
+  margin: 7px 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 20px 0 0;
+  padding: 17px 218px 18px 217px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 418px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-right: 59px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    padding-right: 146px;
+    padding-left: 145px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 450px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    padding-right: 102px;
+    padding-bottom: 17px;
+    padding-left: 102px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: auto;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 417px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    padding: 16px 154px 18px 153px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 518px;
+  }
+
+  .u-section-5 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-5 .u-btn-1 {
+    padding-right: 55px;
+    padding-bottom: 17px;
+    padding-left: 53px;
+  }
 }
